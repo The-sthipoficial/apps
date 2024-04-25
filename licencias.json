@@ -1,6 +1,7 @@
 {
   "SistemasOperativos": [
     "Windows 7",
+    "Windows 8.1",
     "Windows 10",
     "Windows 11"
   ],
@@ -12,6 +13,15 @@
       "Windows Professional": "GMJQF-JC7VC-76HMH-M4RKY-V4HX6",
       "Windows Ultimate": "V77DJ-CT8WB-Y3GXT-X3FBP-6F987"
     },
+
+    "Windows 8.1": {
+      "Windows Pro": "GCRJD-8NW9H-F2CDX-CCM8D-9D6T9",
+      "Windows Pro N": "HMCNV-VVBFX-7HMBH-CTY9B-B4FXY",
+      "Windows Enterprise N": "TT4HM-HN7YT-62K67-RGRQJ-JFFXW",
+      "Windows Embedded Industry": "NMMPB-38DD4-R2823-62W8D-VXKJB",
+      "Windows Core Single Language": "B6NG-PQ82V-VRDPW-8XVD2-V8P66"
+    },
+    
     "Windows 10": {
       "Windows 10 Pro": "VK7JG-NPHTM-C97JM-9MPGT-3V66T",
       "Windows 10 Home": "TX9XD-98N7V-6WMQ6-BX7FG-H8Q99",
