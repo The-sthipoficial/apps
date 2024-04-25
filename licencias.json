@@ -5,14 +5,19 @@
     "Windows 11"
   ],
   "Licencias": {
-    "Windows 7": [
-      "Licencia Windows 7 - 1",
-      "Licencia Windows 7 - 2"
-    ],
+    "Windows 7": {
+      "Windows Starter": "C3XMH-4J44T-WMRKT-T2K42-F974H",
+      "Windows Home Basic": "D9Y8H-4HW6B-26GDT-2CVPB-CDB9P",
+      "Windows Home Premium": "8W6KB-PTFWM-VWB9F-94R8M-29466",
+      "Windows Professional": "GMJQF-JC7VC-76HMH-M4RKY-V4HX6",
+      "Windows Ultimate": "V77DJ-CT8WB-Y3GXT-X3FBP-6F987"
+    },
     "Windows 10": {
       "Windows 10 Pro": "VK7JG-NPHTM-C97JM-9MPGT-3V66T",
       "Windows 10 Home": "TX9XD-98N7V-6WMQ6-BX7FG-H8Q99",
       "Windows 10 Education": "NW6C2-QMPVW-D7KKK-3GKT6-VCFB2",
+      "Windows 10 LTSB": " DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ",
+      "Windows 10 LTSC (2021)": " M7XTQ-FN8P6-TTKYV-9D4CC-J462D",
       "Windows 10 LTSC (2019)": "M7XTQ-FN8P6-TTKYV-9D4CC-J462D"
     },
     "Windows 11": {
@@ -27,5 +32,4 @@
     }
   }
 }
-
 
